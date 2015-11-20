@@ -131,3 +131,9 @@
 [Fri Nov 20 11:00:35 2015] [warn] RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
 [Fri Nov 20 11:00:35 2015] [warn] RSA server certificate CommonName (CN) `dtn' does NOT match server name!?
 [Fri Nov 20 11:00:35 2015] [notice] Apache/2.2.31 (Unix) mod_ssl/2.2.31 OpenSSL/1.0.1e-fips PHP/5.6.14 configured -- resuming normal operations
+[Fri Nov 20 11:11:04 2015] [notice] caught SIGTERM, shutting down
+[Fri Nov 20 11:11:09 2015] [warn] RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Nov 20 11:11:09 2015] [warn] RSA server certificate CommonName (CN) `dtn' does NOT match server name!?
+[Fri Nov 20 11:11:09 2015] [warn] RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Nov 20 11:11:09 2015] [warn] RSA server certificate CommonName (CN) `dtn' does NOT match server name!?
+[Fri Nov 20 11:11:09 2015] [notice] Apache/2.2.31 (Unix) mod_ssl/2.2.31 OpenSSL/1.0.1e-fips PHP/5.6.14 configured -- resuming normal operations
