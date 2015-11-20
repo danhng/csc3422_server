@@ -1,0 +1,3 @@
+#dtn allow custome error page on this area
+
+ErrorDocument 404 htdocs/secure/404.html
