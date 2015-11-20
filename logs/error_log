@@ -253,3 +253,49 @@
 [Fri Nov 20 15:53:03 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/sas
 [Fri Nov 20 15:53:03 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/images, referer: http://10.66.68.83/sas
 [Fri Nov 20 15:53:03 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/images, referer: http://10.66.68.83/css/style.css
+[Fri Nov 20 15:58:45 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/secure/kj
+[Fri Nov 20 15:59:05 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/sasa
+[Fri Nov 20 15:59:05 2015] [error] [client 10.59.129.197] script '/usr/local/apache2/htdocs/404.html' not found or unable to stat
+[Fri Nov 20 16:00:57 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/sasa
+[Fri Nov 20 16:00:57 2015] [error] [client 10.59.129.197] script '/usr/local/apache2/htdocs/404.html' not found or unable to stat
+[Fri Nov 20 16:00:59 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/sasa
+[Fri Nov 20 16:00:59 2015] [error] [client 10.59.129.197] script '/usr/local/apache2/htdocs/404.html' not found or unable to stat
+[Fri Nov 20 16:01:06 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/sasasaas
+[Fri Nov 20 16:01:06 2015] [error] [client 10.59.129.197] script '/usr/local/apache2/htdocs/404.html' not found or unable to stat
+[Fri Nov 20 16:02:57 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/sasasaas
+[Fri Nov 20 16:02:57 2015] [error] [client 10.59.129.197] script '/usr/local/apache2/htdocs/404.html' not found or unable to stat
+[Fri Nov 20 16:03:03 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/secure/jhjh
+[Fri Nov 20 16:03:11 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/filerestricted
+[Fri Nov 20 16:03:11 2015] [error] [client 10.59.129.197] script '/usr/local/apache2/htdocs/404.html' not found or unable to stat
+[Fri Nov 20 16:08:49 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/filerestricted
+[Fri Nov 20 16:08:49 2015] [error] [client 10.59.129.197] script '/usr/local/apache2/htdocs/404.html' not found or unable to stat
+[Fri Nov 20 16:08:50 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/filerestricted
+[Fri Nov 20 16:08:50 2015] [error] [client 10.59.129.197] script '/usr/local/apache2/htdocs/404.html' not found or unable to stat
+[Fri Nov 20 16:12:16 2015] [notice] caught SIGTERM, shutting down
+[Fri Nov 20 16:12:20 2015] [warn] RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Nov 20 16:12:20 2015] [warn] RSA server certificate CommonName (CN) `dtn' does NOT match server name!?
+[Fri Nov 20 16:12:20 2015] [warn] RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Nov 20 16:12:20 2015] [warn] RSA server certificate CommonName (CN) `dtn' does NOT match server name!?
+[Fri Nov 20 16:12:20 2015] [notice] Apache/2.2.31 (Unix) mod_ssl/2.2.31 OpenSSL/1.0.1e-fips PHP/5.6.14 configured -- resuming normal operations
+[Fri Nov 20 16:12:24 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/filerestricted
+[Fri Nov 20 16:12:25 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/filerestricted
+[Fri Nov 20 16:12:33 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/sasa
+[Fri Nov 20 16:12:41 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/secure/saa
+[Fri Nov 20 16:14:18 2015] [notice] Graceful restart requested, doing restart
+[Fri Nov 20 16:14:18 2015] [error] (9)Bad file descriptor: apr_socket_accept: (client socket)
+[Fri Nov 20 16:14:18 2015] [warn] RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Nov 20 16:14:18 2015] [warn] RSA server certificate CommonName (CN) `dtn' does NOT match server name!?
+[Fri Nov 20 16:14:18 2015] [notice] Apache/2.2.31 (Unix) mod_ssl/2.2.31 OpenSSL/1.0.1e-fips PHP/5.6.14 configured -- resuming normal operations
+[Fri Nov 20 16:14:23 2015] [notice] caught SIGTERM, shutting down
+[Fri Nov 20 16:14:28 2015] [warn] RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Nov 20 16:14:28 2015] [warn] RSA server certificate CommonName (CN) `dtn' does NOT match server name!?
+[Fri Nov 20 16:14:28 2015] [warn] RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Nov 20 16:14:28 2015] [warn] RSA server certificate CommonName (CN) `dtn' does NOT match server name!?
+[Fri Nov 20 16:14:28 2015] [notice] Apache/2.2.31 (Unix) mod_ssl/2.2.31 OpenSSL/1.0.1e-fips PHP/5.6.14 configured -- resuming normal operations
+[Fri Nov 20 16:14:34 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/secure/saa
+[Fri Nov 20 16:14:48 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/secure/dbrestricted, referer: https://10.66.68.83/
+[Fri Nov 20 16:14:48 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/secure/dbrestricted, referer: https://10.66.68.83/dbrestricted/
+[Fri Nov 20 16:14:48 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/secure/dbrestricted, referer: https://10.66.68.83/dbrestricted/
+[Fri Nov 20 16:17:46 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/secure/dbrestricted, referer: https://10.66.68.83/
+[Fri Nov 20 16:17:46 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/secure/dbrestricted, referer: https://10.66.68.83/dbrestricted/
+[Fri Nov 20 16:18:05 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/secure/dbrestricted, referer: https://10.66.68.83/
