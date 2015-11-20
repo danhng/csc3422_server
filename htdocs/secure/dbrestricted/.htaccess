@@ -1,0 +1,3 @@
+
+#dtn custom error pages
+    ErrorDocument 404 /dbrestricted/404.html
