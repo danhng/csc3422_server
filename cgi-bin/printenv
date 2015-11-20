@@ -1,4 +1,6 @@
-#!/usr/local/bin/perl
+#!/usr/bin/perl
+##!/usr/local/bin/perl
+#d:tn the default program path seems wrong, should be /usr/bin/perl
 ##
 ##  printenv -- demo CGI program which just prints its environment
 ##

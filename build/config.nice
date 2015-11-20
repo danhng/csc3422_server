@@ -5,4 +5,9 @@
 "./configure" \
 "--enable-so" \
 "--enable-ssl" \
+"--enable-dbd" \
+"--enable-authn-dbd" \
+"--enable-cgi" \
+"--enable-info" \
+"--enable-rewrite" \
 "$@"
