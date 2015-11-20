@@ -1,0 +1,91 @@
+[Wed Oct 28 09:28:33 2015] [notice] Apache/2.2.31 (Unix) configured -- resuming normal operations
+[Wed Oct 28 09:29:01 2015] [error] [client 10.66.66.119] File does not exist: /usr/local/apache2/htdocs/favicon.ico, referer: http://10.66.68.83/
+[Wed Oct 28 09:50:50 2015] [notice] caught SIGTERM, shutting down
+[Wed Oct 28 09:50:52 2015] [notice] Apache/2.2.31 (Unix) PHP/5.6.14 configured -- resuming normal operations
+[Wed Oct 28 10:30:25 2015] [error] [client 10.59.14.26] File does not exist: /usr/local/apache2/htdocs/favicon.ico
+[Wed Oct 28 10:30:38 2015] [error] [client 10.59.14.26] File does not exist: /usr/local/apache2/htdocs/favicon.ico
+[Wed Oct 28 10:32:38 2015] [notice] caught SIGTERM, shutting down
+[Wed Oct 28 10:32:40 2015] [notice] Apache/2.2.31 (Unix) PHP/5.6.14 configured -- resuming normal operations
+[Wed Oct 28 10:32:48 2015] [notice] caught SIGTERM, shutting down
+[Wed Oct 28 10:32:50 2015] [notice] Apache/2.2.31 (Unix) PHP/5.6.14 configured -- resuming normal operations
+[Wed Oct 28 10:35:21 2015] [error] [client 10.59.14.26] File does not exist: /usr/local/apache2/htdocs/favicon.ico, referer: http://10.66.68.83/
+[Wed Oct 28 10:49:15 2015] [error] [client 10.66.68.83] File does not exist: /usr/local/apache2/htdocs/2015
+[Wed Oct 28 11:00:30 2015] [error] [client 10.66.64.104] File does not exist: /usr/local/apache2/htdocs/favicon.ico, referer: http://10.66.68.83/
+[Wed Oct 28 11:03:43 2015] [error] [client 10.66.64.104] File does not exist: /usr/local/apache2/htdocs/favicon.ico
+[Wed Oct 28 11:12:09 2015] [error] [client 10.66.64.104] File does not exist: /usr/local/apache2/htdocs/favicon.ico
+[Wed Oct 28 11:27:49 2015] [error] [client 10.66.64.104] File does not exist: /usr/local/apache2/htdocs/browserconfig.xml
+[Wed Oct 28 12:04:27 2015] [error] [client 10.66.64.104] File does not exist: /usr/local/apache2/htdocs/[image URL for Email icon], referer: http://10.66.68.83/
+[Wed Oct 28 12:04:35 2015] [error] [client 10.66.64.104] File does not exist: /usr/local/apache2/htdocs/facebook.com, referer: http://10.66.68.83/
+[Wed Oct 28 12:04:40 2015] [error] [client 10.66.64.104] File does not exist: /usr/local/apache2/htdocs/[image URL for Email icon], referer: http://10.66.68.83/
+[Wed Oct 28 12:07:44 2015] [error] [client 10.66.64.104] File does not exist: /usr/local/apache2/htdocs/[image URL for Email icon], referer: http://10.66.68.83/
+[Wed Oct 28 12:07:56 2015] [error] [client 10.66.64.104] File does not exist: /usr/local/apache2/htdocs/[image URL for Email icon], referer: http://10.66.68.83/
+[Wed Oct 28 12:08:06 2015] [error] [client 10.66.64.104] File does not exist: /usr/local/apache2/htdocs/[image URL for Email icon], referer: http://10.66.68.83/
+[Wed Oct 28 12:35:42 2015] [error] [client 10.66.64.104] File does not exist: /usr/local/apache2/htdocs/2015, referer: http://10.66.68.83/
+[Wed Oct 28 12:36:08 2015] [error] [client 10.66.64.104] File does not exist: /usr/local/apache2/htdocs/2015
+[Wed Oct 28 12:36:09 2015] [error] [client 10.66.64.104] File does not exist: /usr/local/apache2/htdocs/2015
+[Wed Oct 28 12:36:09 2015] [error] [client 10.66.64.104] File does not exist: /usr/local/apache2/htdocs/2015
+[Wed Oct 28 12:36:11 2015] [error] [client 10.66.64.104] File does not exist: /usr/local/apache2/htdocs/2015, referer: http://10.66.68.83/
+[Wed Oct 28 12:36:19 2015] [error] [client 10.66.64.104] File does not exist: /usr/local/apache2/htdocs/2015, referer: http://10.66.68.83/
+[Wed Oct 28 20:13:15 2015] [error] [client 10.15.2.149] File does not exist: /usr/local/apache2/htdocs/favicon.ico
+[Thu Oct 29 14:42:15 2015] [error] [client 10.58.20.180] File does not exist: /usr/local/apache2/htdocs/favicon.ico, referer: http://10.66.68.83/
+[Thu Oct 29 15:04:31 2015] [error] [client 10.15.6.26] File does not exist: /usr/local/apache2/htdocs/favicon.ico
+[Thu Oct 29 15:05:01 2015] [error] [client 10.15.6.26] File does not exist: /usr/local/apache2/htdocs/favicon.ico
+[Thu Oct 29 18:49:58 2015] [error] [client 10.58.20.180] File does not exist: /usr/local/apache2/htdocs/favicon.ico, referer: http://10.66.68.83/
+[Thu Oct 29 18:52:15 2015] [error] [client 10.58.20.180] File does not exist: /usr/local/apache2/htdocs/favicon.ico
+[Thu Oct 29 18:52:15 2015] [error] [client 10.58.20.180] File does not exist: /usr/local/apache2/htdocs/favicon.ico
+[Thu Oct 29 19:08:04 2015] [error] [client 10.58.20.180] File does not exist: /usr/local/apache2/htdocs/favicon.ico, referer: http://10.66.68.83/
+[Thu Oct 29 19:12:14 2015] [error] [client 10.58.20.180] File does not exist: /usr/local/apache2/htdocs/favicon.ico
+[Thu Oct 29 19:13:20 2015] [error] [client 10.4.168.22] File does not exist: /usr/local/apache2/htdocs/favicon.ico
+[Thu Oct 29 19:35:49 2015] [error] [client 10.58.20.180] File does not exist: /usr/local/apache2/htdocs/favicon.ico
+[Sat Oct 31 16:06:55 2015] [error] [client 10.58.20.107] File does not exist: /usr/local/apache2/htdocs/favicon.ico, referer: http://10.66.68.83/
+[Wed Nov 04 14:42:33 2015] [error] [client 10.4.168.23] File does not exist: /usr/local/apache2/htdocs/favicon.ico
+[Wed Nov 04 18:31:31 2015] [error] [client 10.58.30.8] File does not exist: /usr/local/apache2/htdocs/browserconfig.xml
+[Wed Nov 04 18:31:31 2015] [error] [client 10.58.30.8] File does not exist: /usr/local/apache2/htdocs/browserconfig.xml
+[Fri Nov 06 19:37:17 2015] [notice] caught SIGTERM, shutting down
+[Fri Nov 06 19:37:29 2015] [warn] RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Nov 06 19:37:29 2015] [warn] RSA server certificate CommonName (CN) `10.66.68.83' does NOT match server name!?
+[Fri Nov 06 19:37:29 2015] [warn] RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Nov 06 19:37:29 2015] [warn] RSA server certificate CommonName (CN) `10.66.68.83' does NOT match server name!?
+[Fri Nov 06 19:37:29 2015] [notice] Apache/2.2.31 (Unix) mod_ssl/2.2.31 OpenSSL/1.0.1e-fips PHP/5.6.14 configured -- resuming normal operations
+[Fri Nov 06 19:37:36 2015] [error] [client 10.59.134.39] File does not exist: /usr/local/apache2/htdocs/favicon.ico, referer: http://10.66.68.83/
+[Fri Nov 06 19:38:05 2015] [error] [client 10.59.134.39] File does not exist: /usr/local/apache2/htdocs/s/s
+[Fri Nov 06 19:38:05 2015] [error] [client 10.59.134.39] File does not exist: /usr/local/apache2/htdocs/s/favicon.ico, referer: https://10.66.68.83/s/
+[Fri Nov 06 19:38:10 2015] [error] [client 10.59.134.39] File does not exist: /usr/local/apache2/htdocs/s/s
+[Fri Nov 06 19:39:27 2015] [error] [client 10.59.134.39] File does not exist: /usr/local/apache2/htdocs/s/s
+[Fri Nov 06 19:44:42 2015] [notice] caught SIGTERM, shutting down
+[Fri Nov 06 19:44:46 2015] [warn] RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Nov 06 19:44:46 2015] [warn] RSA server certificate CommonName (CN) `10.66.68.83' does NOT match server name!?
+[Fri Nov 06 19:44:46 2015] [warn] RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Nov 06 19:44:46 2015] [warn] RSA server certificate CommonName (CN) `10.66.68.83' does NOT match server name!?
+[Fri Nov 06 19:44:46 2015] [notice] Apache/2.2.31 (Unix) mod_ssl/2.2.31 OpenSSL/1.0.1e-fips PHP/5.6.14 configured -- resuming normal operations
+[Fri Nov 06 19:47:55 2015] [notice] caught SIGTERM, shutting down
+[Fri Nov 06 19:48:00 2015] [warn] RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Nov 06 19:48:00 2015] [warn] RSA server certificate CommonName (CN) `10.66.68.83' does NOT match server name!?
+[Fri Nov 06 19:48:00 2015] [warn] RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Nov 06 19:48:00 2015] [warn] RSA server certificate CommonName (CN) `10.66.68.83' does NOT match server name!?
+[Fri Nov 06 19:48:00 2015] [notice] Apache/2.2.31 (Unix) mod_ssl/2.2.31 OpenSSL/1.0.1e-fips PHP/5.6.14 configured -- resuming normal operations
+[Fri Nov 06 19:52:35 2015] [notice] caught SIGTERM, shutting down
+[Fri Nov 06 19:52:56 2015] [warn] RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Nov 06 19:52:56 2015] [warn] RSA server certificate CommonName (CN) `10.66.68.83' does NOT match server name!?
+[Fri Nov 06 19:52:56 2015] [warn] RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Nov 06 19:52:56 2015] [warn] RSA server certificate CommonName (CN) `10.66.68.83' does NOT match server name!?
+[Fri Nov 06 19:52:56 2015] [notice] Apache/2.2.31 (Unix) mod_ssl/2.2.31 OpenSSL/1.0.1e-fips PHP/5.6.14 configured -- resuming normal operations
+[Fri Nov 06 19:53:05 2015] [error] [client 10.59.134.39] client denied by server configuration: /usr/local/apache2/htdocs_ssl
+[Fri Nov 06 20:07:26 2015] [notice] caught SIGTERM, shutting down
+[Fri Nov 06 20:07:31 2015] [warn] RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Nov 06 20:07:31 2015] [warn] RSA server certificate CommonName (CN) `10.66.68.83' does NOT match server name!?
+[Fri Nov 06 20:07:31 2015] [warn] RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Nov 06 20:07:31 2015] [warn] RSA server certificate CommonName (CN) `10.66.68.83' does NOT match server name!?
+[Fri Nov 06 20:07:31 2015] [notice] Apache/2.2.31 (Unix) mod_ssl/2.2.31 OpenSSL/1.0.1e-fips PHP/5.6.14 configured -- resuming normal operations
+[Fri Nov 06 20:33:06 2015] [notice] caught SIGTERM, shutting down
+[Fri Nov 06 20:33:11 2015] [warn] RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Nov 06 20:33:11 2015] [warn] RSA server certificate CommonName (CN) `10.66.68.83' does NOT match server name!?
+[Fri Nov 06 20:33:11 2015] [warn] RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Nov 06 20:33:11 2015] [warn] RSA server certificate CommonName (CN) `10.66.68.83' does NOT match server name!?
+[Fri Nov 06 20:33:11 2015] [notice] Apache/2.2.31 (Unix) mod_ssl/2.2.31 OpenSSL/1.0.1e-fips PHP/5.6.14 configured -- resuming normal operations
+[Fri Nov 06 20:33:27 2015] [error] [client 10.59.134.39] File does not exist: /usr/local/apache2/htdocs_s/favicon.ico, referer: https://10.66.68.83/
+[Fri Nov 06 20:50:10 2015] [error] [client 10.59.134.39] File does not exist: /usr/local/apache2/htdocs/favicon.ico, referer: http://10.66.68.83/
+[Fri Nov 20 09:38:32 2015] [error] [client 10.59.129.197] user dtn not found: /
+[Fri Nov 20 09:38:35 2015] [error] [client 10.59.129.197] user dtn not found: /
+[Fri Nov 20 09:38:42 2015] [error] [client 10.59.129.197] user alice: authentication failure for "/": Password Mismatch
+[Fri Nov 20 09:38:47 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs_s/favicon.ico, referer: https://10.66.68.83/

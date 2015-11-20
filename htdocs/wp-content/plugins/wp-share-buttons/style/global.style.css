@@ -1,0 +1,104 @@
+				#post_position_list_block h3, #post_buttons_size_block h3{
+					margin:5px 0px 10px 0px !important;
+					padding:0px !important;
+					font-weight:normal !important;
+				}
+				
+				#post_buttons_size_list  {
+					display:table;
+					position:relative;
+					float:left;
+				}
+
+				#post_buttons_size_list li {
+					position:rleative;
+					display:block;
+					float:left;
+					margin-right:10px;
+				}
+
+				#post_buttons_size_list li.big {background:url(../images/buttons.size.png) left top no-repeat;}
+				#post_buttons_size_list li.big.active {background:url(../images/buttons.size.png) left bottom no-repeat;}
+				#post_buttons_size_list li.big, #post_buttons_size_list li.big input{
+					width:40px;
+					height:40px;
+				}
+
+
+				#post_buttons_size_list li.medium {margin-top:5px;background:url(../images/buttons.size.png) -40px top no-repeat;}
+				#post_buttons_size_list li.medium.active {background:url(../images/buttons.size.png) -40px -30px no-repeat;}
+				#post_buttons_size_list li.medium, #post_buttons_size_list li.medium input {
+					width:30px;
+					height:30px;
+				}
+
+				#post_buttons_size_list li.small {	margin-top:10px;background:url(../images/buttons.size.png) -70px top no-repeat;}
+				#post_buttons_size_list li.small.active {background:url(../images/buttons.size.png) -70px -20px no-repeat;}
+				#post_buttons_size_list li.small, #post_buttons_size_list li.small input {
+					width:20px;
+					height:20px;
+				}
+
+
+				#post_buttons_size_list  input {
+					position:relative;
+					vertical-align:middle;
+					position:absolute;
+					margin:0px;
+					border-radius:0px !important;
+					opacity:0;
+				}
+
+				#post_buttons_size_block  h4 {
+					padding:18px 0px 0px 10px;
+				}
+
+
+
+				#post_position_list_block {
+					width:300px;
+				}
+
+				#post_position_list {
+					display:table-cell;
+					position:relative;
+				}
+
+				#post_position_list li {
+					position:relative;
+					display:block;
+					float:left;
+					width:80px;
+					height:77px;
+					margin:10px 7px 10px 0px;
+					padding:0px;
+					border:0px;
+				}
+
+
+				#post_position_list li.left-top {background:url(../images/positions.png) left top no-repeat;}
+				#post_position_list li.center-top {background:url(../images/positions.png) center top no-repeat;}
+				#post_position_list li.right-top {background:url(../images/positions.png) right top no-repeat;}
+				#post_position_list li.left-bottom {background:url(../images/positions.png) left bottom no-repeat;}
+				#post_position_list li.center-bottom {background:url(../images/positions.png) center bottom no-repeat;}
+				#post_position_list li.right-bottom {background:url(../images/positions.png) right bottom no-repeat;}
+
+				#post_position_list li.active.left-top {background:url(../images/positions.active.png) left top no-repeat;}
+				#post_position_list li.active.center-top {background:url(../images/positions.active.png) center top no-repeat;}
+				#post_position_list li.active.right-top {background:url(../images/positions.active.png) right top no-repeat;}
+				#post_position_list li.active.left-bottom {background:url(../images/positions.active.png) left bottom no-repeat;}
+				#post_position_list li.active.center-bottom {background:url(../images/positions.active.png) center bottom no-repeat;}
+				#post_position_list li.active.right-bottom {background:url(../images/positions.active.png) right bottom no-repeat;}
+
+				#post_position_list  input {
+					position:relative;
+					vertical-align:middle;
+					width:80px;
+					height:77px;
+					position:absolute;
+					margin:0px;
+					top:0px;
+					left:0px;
+					border-radius:0px !important;
+					opacity:0;
+				}
