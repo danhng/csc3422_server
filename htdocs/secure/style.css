@@ -7,6 +7,10 @@ body > #container {
     min-height: 80%;
 }
 
+div > #container{
+text-align: center;
+}
+
 #footer {
     clear: both;
     position: relative;
@@ -18,4 +22,5 @@ body > #container {
 
 #content {
     padding-bottom: 3em;
+text-align: center;
 }
