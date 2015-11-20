@@ -186,3 +186,70 @@
 [Fri Nov 20 14:47:21 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/secure/favicon.ico, referer: https://10.66.68.83/
 [Fri Nov 20 14:47:30 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/secure/filerestricted/style.css, referer: https://10.66.68.83/filerestricted/
 [Fri Nov 20 15:05:52 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/secure/dbrestricted, referer: https://10.66.68.83/
+[Fri Nov 20 15:33:35 2015] [warn] RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Nov 20 15:33:35 2015] [warn] RSA server certificate CommonName (CN) `dtn' does NOT match server name!?
+[Fri Nov 20 15:33:35 2015] [warn] RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Nov 20 15:33:35 2015] [warn] RSA server certificate CommonName (CN) `dtn' does NOT match server name!?
+[Fri Nov 20 15:33:35 2015] [notice] Apache/2.2.31 (Unix) mod_ssl/2.2.31 OpenSSL/1.0.1e-fips PHP/5.6.14 configured -- resuming normal operations
+[Fri Nov 20 15:33:43 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/sasa
+[Fri Nov 20 15:33:43 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/favicon.ico, referer: http://10.66.68.83/sasa
+[Fri Nov 20 15:34:04 2015] [error] [client 10.59.129.197] client denied by server configuration: /usr/local/apache2/htdocs/.htaccess
+[Fri Nov 20 15:35:48 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/.assaas
+[Fri Nov 20 15:37:23 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/.assaas
+[Fri Nov 20 15:37:34 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/sasa
+[Fri Nov 20 15:37:48 2015] [notice] caught SIGTERM, shutting down
+[Fri Nov 20 15:37:52 2015] [warn] RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Nov 20 15:37:52 2015] [warn] RSA server certificate CommonName (CN) `dtn' does NOT match server name!?
+[Fri Nov 20 15:37:52 2015] [warn] RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Nov 20 15:37:52 2015] [warn] RSA server certificate CommonName (CN) `dtn' does NOT match server name!?
+[Fri Nov 20 15:37:52 2015] [notice] Apache/2.2.31 (Unix) mod_ssl/2.2.31 OpenSSL/1.0.1e-fips PHP/5.6.14 configured -- resuming normal operations
+[Fri Nov 20 15:37:54 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/sasa
+[Fri Nov 20 15:38:06 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/sasa
+[Fri Nov 20 15:38:38 2015] [notice] caught SIGTERM, shutting down
+[Fri Nov 20 15:38:42 2015] [warn] RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Nov 20 15:38:42 2015] [warn] RSA server certificate CommonName (CN) `dtn' does NOT match server name!?
+[Fri Nov 20 15:38:42 2015] [warn] RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Nov 20 15:38:42 2015] [warn] RSA server certificate CommonName (CN) `dtn' does NOT match server name!?
+[Fri Nov 20 15:38:42 2015] [notice] Apache/2.2.31 (Unix) mod_ssl/2.2.31 OpenSSL/1.0.1e-fips PHP/5.6.14 configured -- resuming normal operations
+[Fri Nov 20 15:38:43 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/sasa
+[Fri Nov 20 15:38:43 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/usr
+[Fri Nov 20 15:39:07 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/sasaas
+[Fri Nov 20 15:39:07 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/usr
+[Fri Nov 20 15:42:42 2015] [notice] caught SIGTERM, shutting down
+[Fri Nov 20 15:42:46 2015] [warn] RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Nov 20 15:42:46 2015] [warn] RSA server certificate CommonName (CN) `dtn' does NOT match server name!?
+[Fri Nov 20 15:42:46 2015] [warn] RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Nov 20 15:42:46 2015] [warn] RSA server certificate CommonName (CN) `dtn' does NOT match server name!?
+[Fri Nov 20 15:42:46 2015] [notice] Apache/2.2.31 (Unix) mod_ssl/2.2.31 OpenSSL/1.0.1e-fips PHP/5.6.14 configured -- resuming normal operations
+[Fri Nov 20 15:42:52 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/sasaas
+[Fri Nov 20 15:42:52 2015] [error] [client 10.59.129.197] access to /usr/local/apache2/htdocs/secure/404.html failed, reason: SSL connection required
+[Fri Nov 20 15:42:56 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/.assaas
+[Fri Nov 20 15:42:56 2015] [error] [client 10.59.129.197] access to /usr/local/apache2/htdocs/secure/404.html failed, reason: SSL connection required
+[Fri Nov 20 15:43:16 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/secure/sasa
+[Fri Nov 20 15:43:16 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/secure/secure
+[Fri Nov 20 15:46:40 2015] [notice] caught SIGTERM, shutting down
+[Fri Nov 20 15:46:46 2015] [warn] RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Nov 20 15:46:46 2015] [warn] RSA server certificate CommonName (CN) `dtn' does NOT match server name!?
+[Fri Nov 20 15:46:46 2015] [warn] RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Nov 20 15:46:46 2015] [warn] RSA server certificate CommonName (CN) `dtn' does NOT match server name!?
+[Fri Nov 20 15:46:46 2015] [notice] Apache/2.2.31 (Unix) mod_ssl/2.2.31 OpenSSL/1.0.1e-fips PHP/5.6.14 configured -- resuming normal operations
+[Fri Nov 20 15:46:49 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/secure/sasa
+[Fri Nov 20 15:46:58 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/secure/sasa
+[Fri Nov 20 15:47:03 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/secure/salsas
+[Fri Nov 20 15:47:26 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/secure/filerestricted/lk
+[Fri Nov 20 15:47:26 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/secure/filerestricted/css, referer: https://10.66.68.83/filerestricted/lk
+[Fri Nov 20 15:47:26 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/secure/filerestricted/images, referer: https://10.66.68.83/filerestricted/lk
+[Fri Nov 20 15:48:06 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/secure/kl
+[Fri Nov 20 15:48:34 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/ssas
+[Fri Nov 20 15:48:35 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/images, referer: http://10.66.68.83/ssas
+[Fri Nov 20 15:48:35 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/images, referer: http://10.66.68.83/css/style.css
+[Fri Nov 20 15:49:53 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/style.css, referer: http://10.66.68.83/filerestricted/
+[Fri Nov 20 15:50:35 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/sasa
+[Fri Nov 20 15:50:35 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/images, referer: http://10.66.68.83/sasa
+[Fri Nov 20 15:50:35 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/images, referer: http://10.66.68.83/css/style.css
+[Fri Nov 20 15:52:47 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/jhjh
+[Fri Nov 20 15:52:47 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/images, referer: http://10.66.68.83/jhjh
+[Fri Nov 20 15:52:47 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/images, referer: http://10.66.68.83/css/style.css
+[Fri Nov 20 15:53:03 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/sas
+[Fri Nov 20 15:53:03 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/images, referer: http://10.66.68.83/sas
+[Fri Nov 20 15:53:03 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs/images, referer: http://10.66.68.83/css/style.css
