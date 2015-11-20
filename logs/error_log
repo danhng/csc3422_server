@@ -89,3 +89,33 @@
 [Fri Nov 20 09:38:35 2015] [error] [client 10.59.129.197] user dtn not found: /
 [Fri Nov 20 09:38:42 2015] [error] [client 10.59.129.197] user alice: authentication failure for "/": Password Mismatch
 [Fri Nov 20 09:38:47 2015] [error] [client 10.59.129.197] File does not exist: /usr/local/apache2/htdocs_s/favicon.ico, referer: https://10.66.68.83/
+[Fri Nov 20 10:13:37 2015] [notice] caught SIGTERM, shutting down
+[Fri Nov 20 10:21:32 2015] [error] Init: Private key not found
+[Fri Nov 20 10:21:32 2015] [error] SSL Library Error: 218529960 error:0D0680A8:asn1 encoding routines:ASN1_CHECK_TLEN:wrong tag
+[Fri Nov 20 10:21:32 2015] [error] SSL Library Error: 218640442 error:0D08303A:asn1 encoding routines:ASN1_TEMPLATE_NOEXP_D2I:nested asn1 error
+[Fri Nov 20 10:21:32 2015] [error] SSL Library Error: 218529960 error:0D0680A8:asn1 encoding routines:ASN1_CHECK_TLEN:wrong tag
+[Fri Nov 20 10:21:32 2015] [error] SSL Library Error: 218595386 error:0D07803A:asn1 encoding routines:ASN1_ITEM_EX_D2I:nested asn1 error
+[Fri Nov 20 10:21:32 2015] [error] SSL Library Error: 67710980 error:04093004:rsa routines:OLD_RSA_PRIV_DECODE:RSA lib
+[Fri Nov 20 10:21:32 2015] [error] SSL Library Error: 218529960 error:0D0680A8:asn1 encoding routines:ASN1_CHECK_TLEN:wrong tag
+[Fri Nov 20 10:21:32 2015] [error] SSL Library Error: 218595386 error:0D07803A:asn1 encoding routines:ASN1_ITEM_EX_D2I:nested asn1 error
+[Fri Nov 20 10:29:00 2015] [error] Init: Private key not found
+[Fri Nov 20 10:29:00 2015] [error] SSL Library Error: 218529960 error:0D0680A8:asn1 encoding routines:ASN1_CHECK_TLEN:wrong tag
+[Fri Nov 20 10:29:00 2015] [error] SSL Library Error: 218640442 error:0D08303A:asn1 encoding routines:ASN1_TEMPLATE_NOEXP_D2I:nested asn1 error
+[Fri Nov 20 10:29:00 2015] [error] SSL Library Error: 218529960 error:0D0680A8:asn1 encoding routines:ASN1_CHECK_TLEN:wrong tag
+[Fri Nov 20 10:29:00 2015] [error] SSL Library Error: 218595386 error:0D07803A:asn1 encoding routines:ASN1_ITEM_EX_D2I:nested asn1 error
+[Fri Nov 20 10:29:00 2015] [error] SSL Library Error: 67710980 error:04093004:rsa routines:OLD_RSA_PRIV_DECODE:RSA lib
+[Fri Nov 20 10:29:00 2015] [error] SSL Library Error: 218529960 error:0D0680A8:asn1 encoding routines:ASN1_CHECK_TLEN:wrong tag
+[Fri Nov 20 10:29:00 2015] [error] SSL Library Error: 218595386 error:0D07803A:asn1 encoding routines:ASN1_ITEM_EX_D2I:nested asn1 error
+[Fri Nov 20 10:29:14 2015] [error] Init: Private key not found
+[Fri Nov 20 10:29:14 2015] [error] SSL Library Error: 218529960 error:0D0680A8:asn1 encoding routines:ASN1_CHECK_TLEN:wrong tag
+[Fri Nov 20 10:29:14 2015] [error] SSL Library Error: 218640442 error:0D08303A:asn1 encoding routines:ASN1_TEMPLATE_NOEXP_D2I:nested asn1 error
+[Fri Nov 20 10:29:14 2015] [error] SSL Library Error: 218529960 error:0D0680A8:asn1 encoding routines:ASN1_CHECK_TLEN:wrong tag
+[Fri Nov 20 10:29:14 2015] [error] SSL Library Error: 218595386 error:0D07803A:asn1 encoding routines:ASN1_ITEM_EX_D2I:nested asn1 error
+[Fri Nov 20 10:29:14 2015] [error] SSL Library Error: 67710980 error:04093004:rsa routines:OLD_RSA_PRIV_DECODE:RSA lib
+[Fri Nov 20 10:29:14 2015] [error] SSL Library Error: 218529960 error:0D0680A8:asn1 encoding routines:ASN1_CHECK_TLEN:wrong tag
+[Fri Nov 20 10:29:14 2015] [error] SSL Library Error: 218595386 error:0D07803A:asn1 encoding routines:ASN1_ITEM_EX_D2I:nested asn1 error
+[Fri Nov 20 10:38:01 2015] [warn] RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Nov 20 10:38:01 2015] [warn] RSA server certificate CommonName (CN) `dtn' does NOT match server name!?
+[Fri Nov 20 10:38:01 2015] [warn] RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Nov 20 10:38:01 2015] [warn] RSA server certificate CommonName (CN) `dtn' does NOT match server name!?
+[Fri Nov 20 10:38:01 2015] [notice] Apache/2.2.31 (Unix) mod_ssl/2.2.31 OpenSSL/1.0.1e-fips PHP/5.6.14 configured -- resuming normal operations
