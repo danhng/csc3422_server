@@ -539,3 +539,14 @@
 [Fri Nov 20 22:18:12 2015] [error] [client 10.66.66.38] client denied by server configuration: /usr/local/apache2/htdocs/secure/.htaccess
 [Fri Nov 20 22:18:47 2015] [error] [client 10.66.66.38] client denied by server configuration: /usr/local/apache2/htdocs/secure/.htaccess
 [Fri Nov 20 22:19:35 2015] [error] [client 10.66.66.38] client denied by server configuration: /usr/local/apache2/htdocs/secure/.htaccess
+[Tue Nov 24 14:18:18 2015] [notice] caught SIGTERM, shutting down
+[Tue Nov 24 14:18:23 2015] [warn] RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Nov 24 14:18:23 2015] [warn] RSA server certificate CommonName (CN) `dtn' does NOT match server name!?
+[Tue Nov 24 14:18:23 2015] [warn] RSA server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Nov 24 14:18:23 2015] [warn] RSA server certificate CommonName (CN) `dtn' does NOT match server name!?
+[Tue Nov 24 14:18:23 2015] [notice] Apache/2.2.31 (Unix) mod_ssl/2.2.31 OpenSSL/1.0.1e-fips PHP/5.6.14 configured -- resuming normal operations
+[Tue Nov 24 14:18:34 2015] [error] [client 10.66.64.83] File does not exist: /usr/local/apache2/htdocs/favicon.ico, referer: http://10.66.68.83/
+[Tue Nov 24 14:18:37 2015] [error] [client 10.66.64.83] access to /usr/local/apache2/htdocs/secure failed, reason: SSL connection required
+[Tue Nov 24 14:18:37 2015] [error] [client 10.66.64.83] script '/usr/local/apache2/htdocs/403.html' not found or unable to stat
+[Tue Nov 24 14:18:50 2015] [error] [client 10.66.64.83] File does not exist: /usr/local/apache2/htdocs/secure/favicon.ico, referer: https://10.66.68.83/
+[Tue Nov 24 14:20:05 2015] [error] [client 10.66.64.83] File does not exist: /usr/local/apache2/htdocs/secure/herschel/sasas
