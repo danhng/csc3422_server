@@ -1,0 +1,47 @@
+CSC3422 Coursework 3 Kennel Booking Website using Jetty
+Student Name: Danh Thanh Nguyen
+Student Number: 130352046
+
+Project environment
+- Project name: jetty-example
+- IDE used: Intellij 15.0.2
+- Java version: java version "1.8.0_66"
+                Java(TM) SE Runtime Environment (build 1.8.0_66-b17)
+                Java HotSpot(TM) 64-Bit Server VM (build 25.66-b17, mixed mode)
+
+1. Running instruction
+
+PORT: 8080
+address: localhost:8080
+
+There are two ways to run the application.
+1.1. through shell using jar executable file located at target/jetty-example-1.0-SNAPSHOT.jar
+- Please make sure the jar file target/jetty-example-1.0-SNAPSHOT.jar has the execution permission.
+- Please make sure you have the super user's right to run the application.
+- Tested with linux: "sudo java -jar jetty-example-1.0-SNAPSHOT.jar"
+1.2. through IDE using source.
+- Import the project into an IDE (Netbean, Intellij IDEA etc.)
+- Build the project.
+- Run the src/main/java/server/KennelWebServer.java source file that is the entry point of the server.
+* Note: Please run "mvn clean install" or "mvn package" in order to produce a new jar executable file.
+
+2. Basic features
+- The website is implemented to work correctly as per session (due to the "no database" constraint).
+- The booking and checkout requests are handled by the server app with respect to the contextual session's kennel.
+
+2. Additional features.
+2.1. Server time
+- The local time of the server is shown at the top of the main page index.jsp.
+2.2. Authentication
+- A complete authentication (non-database) mechanism is implemented.
+- In order to book pens or check out, username and password is required.
+- Please register a username with a password (not checked for strength) using the signup form located at the bottom of the main page.
+- Once you have a username and password, please log in to perform requests.
+- Upon logging in, the main page will show:
+    + Current server time
+    + A welcome message to the user
+    + A message indicating whether there are any vacancies.
+    + Kennel details using reports generated from generateReport method.
+    + Booking form.
+    + Check out form.
+    + Logout button allowing the user to log out without losing booking data of that session.
