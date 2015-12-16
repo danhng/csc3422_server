@@ -1,9 +1,13 @@
 # csc3422_server
 > Stage 3 CSC3422 Server Coursework
-> Contains the whole implemented apache2 server. 
+> Contains the whole implemented apache2 server for 3 courseworks.
+> Apache version 2.2
 
 # Basic information
 Address: 10.66.68.83
+
+# Coursework 1:
+> See configuration files on appropriate directory
 
 # Coursework 2:
 #### Configuration files
