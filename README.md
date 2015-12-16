@@ -14,5 +14,8 @@ Address: 10.66.68.83
 - username: alice
 - password: 12345
 
+# Coursework 3:
+> See /coursework3 directory
+
 
 
